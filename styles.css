@@ -1,0 +1,9 @@
+h1{
+    color: rgb(255, 0, 170);
+}
+p{
+    font-size: 26px;
+    color: rgb(37, 18, 28);
+    background-color:rgb(179, 92, 92);
+    border : 5px solid rgb(128, 128, 128);
+}
